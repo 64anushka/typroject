@@ -1,5 +1,4 @@
-# typroject
-SALES ANALYTICS: A STATISTICAL APPROACH TOWARDS OPTIMAL SOLUTIONS
+#SALES ANALYTICS: A STATISTICAL APPROACH TOWARDS OPTIMAL SOLUTIONS
 
 In this project we have analyzed the sales data provided to us by two shops-a pharmaceutical shop and the other a departmental store using different statistical techniques.
 
